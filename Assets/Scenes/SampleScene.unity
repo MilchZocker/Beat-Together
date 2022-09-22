@@ -7511,7 +7511,7 @@ MonoBehaviour:
               m_BoolArgument: 0
             m_CallState: 2
     actionType: 9
-    execType: 1
+    execType: 2
     layerMask:
       serializedVersion: 2
       m_Bits: 0
@@ -7532,7 +7532,7 @@ MonoBehaviour:
     interactionInput: 48
     interactionInputModifier: 0
     guid: 67db104a-94e1-434f-9dc6-7c2d2280bff0
-  - delay: 0
+  - delay: 10
     operations:
     - type: 21
       targets:
@@ -7577,7 +7577,7 @@ MonoBehaviour:
               m_StringArgument: 
               m_BoolArgument: 1
             m_CallState: 2
-    actionType: 11
+    actionType: 9
     execType: 2
     layerMask:
       serializedVersion: 2
